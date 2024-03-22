@@ -1,4 +1,4 @@
-# Python_2
+# Python_0321
 ##### 제곱
 ```
 x = lambda a: a * a
